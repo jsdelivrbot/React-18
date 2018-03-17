@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import ReactDOM from 'react-dom';
 import YTSearch from 'youtube-api-search';
-import Searchbar from './components/Searchbar';
+import Searchbar from './components/search_bar';
 import VideoList from './components/video_list';
 import VideoDetail from './components/video_detail'
 const API_KEY = "AIzaSyDv9LQcJPPtxyidK4b71Yk7-3uCvpMCtf0";
